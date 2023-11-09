@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Email/product"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Text to Speech"
+	}
+}
